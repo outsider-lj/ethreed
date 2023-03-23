@@ -1,4 +1,4 @@
-#ETH-REED
+#ET-HREED
 
 This repository is the implementation of paper：*Generating Empathetic Responses through Emotion Tracking and Constraint Guidance*
 
