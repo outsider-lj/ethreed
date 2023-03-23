@@ -1,4 +1,6 @@
-#This repository is the implementation of paper：*Generating Empathetic Responses through Emotion Tracking and Constraint Guidance*
+#ETH-REED
+
+This repository is the implementation of paper：*Generating Empathetic Responses through Emotion Tracking and Constraint Guidance*
 
 ##empathetic dialogue generation model ethreed
 
