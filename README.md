@@ -1,10 +1,10 @@
-#ET-HREED
+# ET-HREED
 
 This repository is the implementation of paper：*Generating Empathetic Responses through Emotion Tracking and Constraint Guidance*
 
-##empathetic dialogue generation model ethreed
+## empathetic dialogue generation model ethreed
 
-###Dependencies
+### Dependencies
 
 Python 3.6 
 torch-cuda 1.7
