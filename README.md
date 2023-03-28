@@ -21,6 +21,3 @@ run lj_train.py
 
 run lj_test.py
 
-### Others
-
-There are some code about dialogue behavior in this code, because we want add behavior state to ET-HREED. But we dont complete this thought, so these codes are useless currently.
